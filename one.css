@@ -1,0 +1,18 @@
+h2{
+    color:brown;
+    font-size: medium;
+    background-color: beige;
+    text-align: justify;
+}
+h3{
+    color:red;
+    font-size: larger;
+    background-color: aqua;
+    text-align: left;
+}
+h4{
+    color: blueviolet;
+    font-size:small;
+    background-color: azure;
+    text-align: end; 
+}

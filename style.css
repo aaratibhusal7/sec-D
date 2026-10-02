@@ -1,0 +1,18 @@
+h1{
+     color: blue;
+    font-size: larger;
+    text-align: center;
+}
+h2{
+    color:aqua;
+}
+p{
+    color:palevioletred;
+    font-family: cursive;
+   line-height:2px;
+}
+/* class selector */
+.skills{
+    color:black;
+    background-color: blueviolet;
+}

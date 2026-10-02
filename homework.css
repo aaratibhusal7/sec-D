@@ -1,0 +1,24 @@
+div{
+    color:red;
+    border: 20px;
+    padding: 30px;
+    margin-right: 32px;
+    height: max-content;
+    width: min-content;
+}
+.second{
+    color:aqua;
+    border:30px;
+    padding:20px;
+    margin-top: 60px;
+    height:45px;
+    width:max-content;
+}
+#third{
+    color:green;
+    border:100px;
+    padding-right: 45px;
+    margin-left: 54px;
+    max-height: max-content;
+    width: min-content;
+}
